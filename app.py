@@ -7,9 +7,9 @@ app = Flask(__name__)
 
 fake = Faker("zh_CN")
 
-tenant_id = 'fc4cb4ae-97b4-4b2e-b059-2feeea0c1986'
-client_id = '0b1c545c-9f65-4de6-a8f4-f6e95ccf992c'
-client_secret = 'f[YD7LgJnZ0-dd1OvXBT?=mYojYCT27T'
+tenant_id = ''
+client_id = ''
+client_secret = ''
 skuId = '314c4481-f395-4525-be8b-2ec4bb1e9d91'
 # skuId = '94763226-9b3c-4e75-a931-5c89701abe66'
 domain = '@zbzbo.onmicrosoft.com'
